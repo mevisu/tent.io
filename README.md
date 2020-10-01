@@ -11,3 +11,4 @@ Compile:
 Preview:
 
     bundle exec middleman server
+//make it more interactive and understandable//
